@@ -11,5 +11,7 @@
   "hubot-shipit",
   "hubot-heroku-keepalive",
   "hubot-circleci",
-  "hubot-victory"
+  "hubot-victory",
+  "hubot-youtube",
+  "hubot-dogeme"
 ]
